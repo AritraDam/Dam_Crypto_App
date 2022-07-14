@@ -55,7 +55,7 @@ class TopLossGainFragment : Fragment() {
                         binding.topGainLoseRecyclerView.adapter = MarketAdapter(
                             requireContext(),
                             list,
-                            "market"
+                            "home"
                         )
                     }else{
                         list.clear()
