@@ -17,7 +17,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import java.util.*
 import kotlin.collections.ArrayList
-
+//checking
 class TopLossGainFragment : Fragment() {
     lateinit var binding: FragmentTopLossGainBinding
     override fun onCreateView(
