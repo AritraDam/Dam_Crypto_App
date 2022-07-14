@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable-v24/active_button.xml" value="0.153" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable-v24/market_content_bg.xml" value="0.1" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable-v24/top_gainers_bg.xml" value="0.1" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable-v24/top_losers_bg.xml" value="0.1" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable/bookmark_48px.xml" value="0.153" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable/home_48px.xml" value="0.153" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable/market_48px.xml" value="0.153" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/drawable/watchlist_48px.xml" value="0.153" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/currency_item_layout.xml" value="0.3508997429305913" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/fragment_details.xml" value="0.33" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/fragment_market.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/fragment_top_loss_gain.xml" value="0.4130663856691254" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/fragment_watch_list.xml" value="0.33" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/layout/top_currency_layout.xml" value="0.25" />
+        <entry key="..\:/Users/91960/Desktop/Dam/AndroidProjects/Crypto App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
