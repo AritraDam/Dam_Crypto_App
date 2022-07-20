@@ -30,13 +30,11 @@ class TopLossGainFragment : Fragment() {
         getMarketData()
         return binding.root
     }
-
     private fun getMarketData() {
         val position = requireArguments().getInt("position")
 
         lifecycleScope.launch(Dispatchers.IO){
             val res = ApiUtilities.getInstance().create(ApiInterface::class.java).getMarketData()
-
             if(res.body()!=null){
                 withContext(Dispatchers.Main){
                     val dataItem = res.body()!!.data.cryptoCurrencyList
@@ -68,11 +66,8 @@ class TopLossGainFragment : Fragment() {
                             "home"
                         )
                     }
-
                 }
             }
-
         }
-
     }
 }
